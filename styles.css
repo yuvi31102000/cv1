@@ -1,0 +1,30 @@
+        body {
+			padding: 10px;
+			background-image: url("ht.jpg");
+			background-size: cover;
+			background-repeat: no-repeat;
+			display: block;
+
+		}
+		hr{
+			border-style: none;
+			border-top-style:dotted ;
+			border-color: #FF9292;
+			border-width: 5px;
+			width: 10%;
+			margin: 30px auto;
+		}
+		h1 {
+			color: #66BFBF;
+			font-family: 'Sacramento',cursive;
+			font-size: 2.625em;
+			font-weight: normal;
+		}
+	
+		img{
+			border-radius: 100%;
+		}
+		p{
+			font-family: 'merriweather',serif;
+		}
+
